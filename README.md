@@ -8,7 +8,7 @@ Thanks Christian for you greate work.
 Cheers,
 Quy Nguyen
 
-Features
+Features (this section is copied from Christian's page, I just modified some syntax)
 
 Extracts publication title, most relevant web link, PDF link, number of citations, number of online versions, link to Google Scholar's article cluster for the work, Google Scholar's cluster of all works referencing the publication.
 Supports the full range of advanced query options provided by Google Scholar, such as title-only search or publication date timeframes.
